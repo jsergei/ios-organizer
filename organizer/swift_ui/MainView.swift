@@ -44,15 +44,3 @@ struct MainView: View {
         }
     }
 }
-
-#Preview("Main View") {
-    MainView()
-}
-
-#Preview("SwiftUI Implementation") {
-    HelloWorldView()
-}
-
-#Preview("UIKit Implementation") {
-    UIKitContainerView()
-}

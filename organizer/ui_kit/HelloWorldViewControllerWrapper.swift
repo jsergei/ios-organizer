@@ -17,7 +17,3 @@ struct HelloWorldViewControllerWrapper: UIViewControllerRepresentable {
         // Update the view controller if needed when SwiftUI state changes
     }
 }
-
-#Preview {
-    HelloWorldViewControllerWrapper()
-}

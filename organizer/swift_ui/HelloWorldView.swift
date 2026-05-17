@@ -18,7 +18,3 @@ struct HelloWorldView: View {
         .padding()
     }
 }
-
-#Preview {
-    HelloWorldView()
-}

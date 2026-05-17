@@ -12,7 +12,3 @@ struct UIKitContainerView: View {
         HelloWorldViewControllerWrapper()
     }
 }
-
-#Preview {
-    UIKitContainerView()
-}
