@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xcrun simctl *)",
+      "Bash(python3 -c ' *)",
+      "Bash(xcodebuild -project /Users/sergei/coding/organizer/organizer.xcodeproj -list)",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
